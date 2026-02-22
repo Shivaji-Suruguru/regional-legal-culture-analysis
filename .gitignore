@@ -1,12 +1,3 @@
-# Data and Output
-data/
-opendata/
-output/
-*.csv
-*.parquet
-*.json
-!data/court-codes.json
-
 # Python
 __pycache__/
 *.py[cod]

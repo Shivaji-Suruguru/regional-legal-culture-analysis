@@ -1,0 +1,42 @@
+{
+    "High Court of Punjab and Haryana": {
+        "Service": 33.33,
+        "Land/Property": 0.0,
+        "Writ": 0.0,
+        "Tax": 0.0,
+        "Criminal": 66.67,
+        "Entropy": 0.92,
+        "Personality": "Criminal-Dominant",
+        "Cluster": 2
+    },
+    "High Court of Andhra Pradesh": {
+        "Service": 0.0,
+        "Land/Property": 100.0,
+        "Writ": 0.0,
+        "Tax": 0.0,
+        "Criminal": 0.0,
+        "Entropy": -0.0,
+        "Personality": "Land-Conflict Dominant",
+        "Cluster": 0
+    },
+    "Madras High Court": {
+        "Service": 0.0,
+        "Land/Property": 0.0,
+        "Writ": 100.0,
+        "Tax": 0.0,
+        "Criminal": 0.0,
+        "Entropy": -0.0,
+        "Personality": "Administrative-Heavy",
+        "Cluster": 1
+    },
+    "High Court of Gujarat": {
+        "Service": 0.0,
+        "Land/Property": 0.0,
+        "Writ": 0.0,
+        "Tax": 100.0,
+        "Criminal": 0.0,
+        "Entropy": -0.0,
+        "Personality": "Revenue-Focused",
+        "Cluster": 3
+    }
+}

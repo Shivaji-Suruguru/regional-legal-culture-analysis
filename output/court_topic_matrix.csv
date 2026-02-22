@@ -1,0 +1,5 @@
+court_name,Service,Land/Property,Writ,Tax,Criminal,Entropy,Dominant_Categories,Personality,Cluster
+High Court of Punjab and Haryana,33.33333333333333,0.0,0.0,0.0,66.66666666666666,0.9182958340544897,Criminal (66.7%); Service (33.3%); Land/Property (0.0%),Criminal-Dominant,2
+High Court of Andhra Pradesh,0.0,100.0,0.0,0.0,0.0,-0.0,Land/Property (100.0%); Service (0.0%); Writ (0.0%),Land-Conflict Dominant,0
+Madras High Court,0.0,0.0,100.0,0.0,0.0,-0.0,Writ (100.0%); Service (0.0%); Land/Property (0.0%),Administrative-Heavy,1
+High Court of Gujarat,0.0,0.0,0.0,100.0,0.0,-0.0,Tax (100.0%); Service (0.0%); Land/Property (0.0%),Revenue-Focused,3
