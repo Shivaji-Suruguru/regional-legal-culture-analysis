@@ -33,7 +33,7 @@ st.markdown("""
         margin-bottom: 20px;
     }
     </style>
-    """, unsafe_allow_name=True)
+    """, unsafe_allow_html=True)
 
 # Load Data
 @st.cache_data
