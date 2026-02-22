@@ -63,7 +63,13 @@ Automatically identifies the "personality" of a High Court based on case distrib
 pip install -r requirements.txt
 ```
 
-### Running the Engine
+### Running the Dashboard (New!)
+Launch the interactive visualization dashboard:
+```bash
+streamlit run app.py
+```
+
+### Running the Backend Engine
 1. Place your metadata (CSV or Parquet) in the `data/` or `opendata/` directory.
 2. Run the pipeline:
    ```bash
